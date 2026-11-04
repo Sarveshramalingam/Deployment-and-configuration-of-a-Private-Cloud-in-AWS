@@ -1,4 +1,3 @@
-# Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
 Aim:
@@ -59,53 +58,52 @@ Snap Shot:
  
 
 Snapshot 1: Create VPC
+<img width="1552" height="822" alt="image" src="https://github.com/user-attachments/assets/f06f4900-dbdf-4a8d-b716-fd73cd563b5d" />
+<img width="1547" height="817" alt="image" src="https://github.com/user-attachments/assets/3d21fe4a-7d3b-487e-8f2b-7e05e08901aa" />
+
  
 Snapshot 2: Configuring Subnets
- 
+<img width="1542" height="826" alt="image" src="https://github.com/user-attachments/assets/e575981f-e9ee-453f-b1fd-a1ed99765fc2" />
+<img width="1547" height="817" alt="image" src="https://github.com/user-attachments/assets/a01e0613-b3df-434e-b899-f5f3a7b4c2d0" />
+
 
 Snapshot 3: Configure Subnets
+<img width="1547" height="828" alt="image" src="https://github.com/user-attachments/assets/74d7db80-35bb-4c45-846d-a47bd1ca33b1" />
+
  
 
 Snapshot 4: Setting Internet gateway
+<img width="1543" height="826" alt="image" src="https://github.com/user-attachments/assets/99591a4d-acc3-4f50-8ce4-881ff01c5229" />
 
  
 Snapshot 5: Setting Internet gateway
+<img width="1547" height="822" alt="image" src="https://github.com/user-attachments/assets/b788e561-3ecb-490b-9fa6-9e415f0c9143" />
+<img width="1543" height="835" alt="image" src="https://github.com/user-attachments/assets/bcb6ff22-4f0a-407e-9700-66764e6d5af3" />
 
 
 
  
 
 Snapshot 6: Setting Internet gateway
+<img width="1542" height="820" alt="image" src="https://github.com/user-attachments/assets/5431ac4d-29b0-436a-b987-dfba3fd99677" />
 
  
 Snapshot 7: Creating route table
 
+
  
 
 Snapshot 8: Configuring route table
+<img width="1547" height="825" alt="image" src="https://github.com/user-attachments/assets/7d31b975-883b-45ec-8ab9-38c006c49fbd" />
 
 
  
 Snapshot 9: Editing routes
+<img width="1545" height="822" alt="image" src="https://github.com/user-attachments/assets/3c511084-c4f7-49bf-8db9-00854a9dbdc4" />
 
  
 Snapshot 10: Creating route table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1542" height="817" alt="image" src="https://github.com/user-attachments/assets/53bb4305-6046-487e-9911-25984738dd56" />
 
 
 
